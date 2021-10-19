@@ -11,6 +11,18 @@
 		7C8480CE2704172F0076C850 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8480CD2704172F0076C850 /* ContentView.swift */; };
 		7C8480D0270417310076C850 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C8480CF270417310076C850 /* Assets.xcassets */; };
 		7C8480D3270417310076C850 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C8480D2270417310076C850 /* Preview Assets.xcassets */; };
+		7C88A21F2707030D00A18691 /* Tshirt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A21E2707030D00A18691 /* Tshirt.swift */; };
+		7C88A2212707054000A18691 /* TshirtColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A2202707054000A18691 /* TshirtColor.swift */; };
+		7C88A22327070A8700A18691 /* Hand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A22227070A8700A18691 /* Hand.swift */; };
+		7C88A22527070D7700A18691 /* Pant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A22427070D7700A18691 /* Pant.swift */; };
+		7C88A227270AA68E00A18691 /* Feet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A226270AA68D00A18691 /* Feet.swift */; };
+		7C88A229270AAD8F00A18691 /* Sock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A228270AAD8F00A18691 /* Sock.swift */; };
+		7C88A22B270AD22700A18691 /* Shoes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A22A270AD22700A18691 /* Shoes.swift */; };
+		7C88A22D270AD70600A18691 /* RightShoes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A22C270AD70600A18691 /* RightShoes.swift */; };
+		7C88A22F270AE6DA00A18691 /* Zip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C88A22E270AE6DA00A18691 /* Zip.swift */; };
+		7C8C65732705FC8500CB9A55 /* Neck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8C65722705FC8500CB9A55 /* Neck.swift */; };
+		7C8C65752706004400CB9A55 /* Face.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8C65742706004400CB9A55 /* Face.swift */; };
+		7CCB1BBD271F01D600B72341 /* Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCB1BBC271F01D600B72341 /* Add.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		7C8480CD2704172F0076C850 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7C8480CF270417310076C850 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C8480D2270417310076C850 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7C88A21E2707030D00A18691 /* Tshirt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tshirt.swift; sourceTree = "<group>"; };
+		7C88A2202707054000A18691 /* TshirtColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TshirtColor.swift; sourceTree = "<group>"; };
+		7C88A22227070A8700A18691 /* Hand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hand.swift; sourceTree = "<group>"; };
+		7C88A22427070D7700A18691 /* Pant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pant.swift; sourceTree = "<group>"; };
+		7C88A226270AA68D00A18691 /* Feet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feet.swift; sourceTree = "<group>"; };
+		7C88A228270AAD8F00A18691 /* Sock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sock.swift; sourceTree = "<group>"; };
+		7C88A22A270AD22700A18691 /* Shoes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shoes.swift; sourceTree = "<group>"; };
+		7C88A22C270AD70600A18691 /* RightShoes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RightShoes.swift; sourceTree = "<group>"; };
+		7C88A22E270AE6DA00A18691 /* Zip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zip.swift; sourceTree = "<group>"; };
+		7C8C65722705FC8500CB9A55 /* Neck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neck.swift; sourceTree = "<group>"; };
+		7C8C65742706004400CB9A55 /* Face.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Face.swift; sourceTree = "<group>"; };
+		7CCB1BBC271F01D600B72341 /* Add.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Add.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +59,16 @@
 		7C8480BF2704172F0076C850 = {
 			isa = PBXGroup;
 			children = (
+				7C88A22E270AE6DA00A18691 /* Zip.swift */,
+				7C88A22C270AD70600A18691 /* RightShoes.swift */,
+				7C88A22A270AD22700A18691 /* Shoes.swift */,
+				7C88A228270AAD8F00A18691 /* Sock.swift */,
+				7C88A226270AA68D00A18691 /* Feet.swift */,
+				7C88A22227070A8700A18691 /* Hand.swift */,
+				7C88A22427070D7700A18691 /* Pant.swift */,
+				7C88A2202707054000A18691 /* TshirtColor.swift */,
+				7C88A21E2707030D00A18691 /* Tshirt.swift */,
+				7C8C65722705FC8500CB9A55 /* Neck.swift */,
 				7C8480CA2704172F0076C850 /* test */,
 				7C8480C92704172F0076C850 /* Products */,
 			);
@@ -53,6 +87,8 @@
 			children = (
 				7C8480CB2704172F0076C850 /* testApp.swift */,
 				7C8480CD2704172F0076C850 /* ContentView.swift */,
+				7CCB1BBC271F01D600B72341 /* Add.swift */,
+				7C8C65742706004400CB9A55 /* Face.swift */,
 				7C8480CF270417310076C850 /* Assets.xcassets */,
 				7C8480D1270417310076C850 /* Preview Content */,
 			);
@@ -137,8 +173,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C88A22527070D7700A18691 /* Pant.swift in Sources */,
+				7C88A229270AAD8F00A18691 /* Sock.swift in Sources */,
+				7C88A227270AA68E00A18691 /* Feet.swift in Sources */,
+				7C88A22D270AD70600A18691 /* RightShoes.swift in Sources */,
+				7C88A22327070A8700A18691 /* Hand.swift in Sources */,
+				7C8C65752706004400CB9A55 /* Face.swift in Sources */,
+				7C88A2212707054000A18691 /* TshirtColor.swift in Sources */,
 				7C8480CE2704172F0076C850 /* ContentView.swift in Sources */,
+				7C88A22F270AE6DA00A18691 /* Zip.swift in Sources */,
+				7CCB1BBD271F01D600B72341 /* Add.swift in Sources */,
+				7C88A22B270AD22700A18691 /* Shoes.swift in Sources */,
+				7C8C65732705FC8500CB9A55 /* Neck.swift in Sources */,
 				7C8480CC2704172F0076C850 /* testApp.swift in Sources */,
+				7C88A21F2707030D00A18691 /* Tshirt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
